@@ -1,9 +1,7 @@
- Exemplo de Repositório no GitHub
+ # Exemplo de *Branch* ruim no GitHub
 
-Este é um um web app simples mostrando alguns poucos arquivos que um projeto pode conter.
+- Não adicionei uma descrição do que este projeto faz.
+- Não adicionei a pasta `node_modules` e nem mesmo o arquivo `.env` ao arquivo `.gitignore`.
 
-## Executar localmente
-1. Clone este projeto
-2. `cd exemplo-repo-github`
-3. `npm install`
-4. `npm start`
+# Instruções de como executar
+- Instruções não foram adicionadas.
